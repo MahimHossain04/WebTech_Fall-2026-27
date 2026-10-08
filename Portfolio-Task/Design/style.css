@@ -51,7 +51,13 @@ h2{
 #about{
     text-align: justify;
 }
-
+h3{
+    color: rgb(59, 59, 59);
+}
+form {
+    width: 450px;
+    
+}
 fieldset
 {
     background-color: aliceblue;
@@ -60,15 +66,16 @@ fieldset
     padding: 6px 14px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 200;
+    
 }
 
 legend{
-    background-color: rgb(24, 124, 218);
+    background-color: rgb(44, 149, 235);
     border: 1px solid black;
     font-size: 20px;
     color: white;
     border-radius: 7px;
-    padding: 6px 24px;
+    padding: 3px 40px;
     font-weight: bold;
 }
 #submit{
@@ -97,23 +104,24 @@ legend{
     border-radius: 6px;
     padding: 10px;
     margin: 10px;
-    width: 250px;
+    width: 300px;
     height: 35px;
 }
 #email{
-     background-color: aliceblue;
+    background-color: aliceblue;
     border: 1px solid black;
     border-radius: 6px;
     padding: 10px;
     margin: 10px;
-    width: 250px;
+    width: 300px;
     height: 35px;
 }
 
 #comment{
-     background-color: aliceblue;
+    background-color: aliceblue;
     border: 1px solid black;
     border-radius: 6px;
     padding: 10px;
     margin: 10px;
+    width: 300px;
 }
